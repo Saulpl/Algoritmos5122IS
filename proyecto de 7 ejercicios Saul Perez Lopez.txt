@@ -9,7 +9,7 @@ namespace Estructura_de_datos
     class Program
     {
         static void Main(string[] args)
-            //creacion del menu//
+        //creacion del menu//
         {
             Console.WriteLine("Bienvenido a mi programa para que me repruebe :)");
             Console.WriteLine("¿con que revision empezamos? :)");
@@ -337,4 +337,3 @@ namespace Estructura_de_datos
         }
     }
 }
-
